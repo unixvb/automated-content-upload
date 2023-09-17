@@ -1,0 +1,22 @@
+{
+  "name": "automated-content-upload",
+  "version": "1.0.0",
+  "description": "Simplifying content distribution through automated uploads to YouTube, Instagram, and TikTok.",
+  "main": "src/app.ts",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unixvb/automated-content-upload.git"
+  },
+  "author": "Andrii Ivaniv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unixvb/automated-content-upload/issues"
+  },
+  "homepage": "https://github.com/unixvb/automated-content-upload#readme"
+}
